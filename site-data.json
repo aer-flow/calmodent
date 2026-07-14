@@ -9,11 +9,18 @@
   "linkedin_url": "#",
   "copyright_year": "2026",
   "address": "Str. Tribunei, Nr. 7, Sibiu, Romania",
+  "existing_website": "http://www.calmodent.ro/",
   "brand_name": "Calmodent",
   "logo_path": "img/brand-logo.jpg",
-  "preview_image_path": "img/brand-preview.png",
+  "og_image_type": "image/jpeg",
+  "og_image_width": "1200",
+  "og_image_height": "630",
+  "og_image_alt": "Calmodent",
+  "preview_image_path": "img/brand-preview.jpg?v=1784036208",
+  "site_title": "Calmodent | Stomatologie premium in Sibiu",
+  "site_description": "Calmodent ofera servicii stomatologice moderne in Sibiu, cu accent pe confort, grija si rezultate naturale.",
   "phone_link": "0735220722",
   "whatsapp_number": "0735220722",
   "map_embed_url": "https://www.google.com/maps?q=Str.%20Tribunei%2C%20Nr.%207%2C%20Sibiu%2C%20Romania&output=embed",
-  "og_image_url": "https://calmodent.vercel.app/img/brand-preview.png"
+  "og_image_url": "https://calmodent.vercel.app/img/brand-preview.jpg?v=1784036208"
 }
